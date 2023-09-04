@@ -12,7 +12,9 @@
     <img src ="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" style="height : auto;"/>
 </a>
 -->
-
+- Phone : 010-7165-2802
+- Email : yyechan1@gmail.com
+- Github : https://github.com/yyechan0602
 - 블로그 : <https://yyechan0602.github.io> ✨
 - 이메일 : <yyechan1@gmail.com>
 

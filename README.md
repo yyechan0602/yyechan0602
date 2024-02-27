@@ -38,31 +38,14 @@
 
 ## 🐤 공부중
 
-![ariancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyechan0602&show_icons=true&theme=radical)
+[![ariancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyechan0602&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyechan0602&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ariancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyechan0602&show_icons=true&theme=outrun&hide=stars,)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soun997&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soun997)](https://solved.ac/profile/soun997)
-
-
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyechan)](https://solved.ac/profile/yyechan)
 
 </div>
 
 <!--
-**soun997/soun997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yyechan0602/yyechan0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

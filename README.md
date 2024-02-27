@@ -1,6 +1,7 @@
 <!--방문자 수, 깃허브 팔로워 수-->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyechan0602&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
 
+![header](https://capsule-render.vercel.app/api?height=200&type=venom&text=안녕하세요🖐️,%20백엔드%20개발자%20염예찬입니다:]&fontSize=35&fontAlignY=40&desc=Hi%20there🖐️,%20I'm%20backend%20developer%20ye-chan%20Yeom:])
 
 ## 🐤 TMI
 

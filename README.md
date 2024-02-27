@@ -1,13 +1,19 @@
 <!--방문자 수, 깃허브 팔로워 수-->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyechan0602&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
 
+<div align='center'>
+    
 ![header](https://capsule-render.vercel.app/api?height=200&type=venom&text=안녕하세요🖐️,%20백엔드%20개발자%20염예찬입니다:]&fontSize=35&fontAlignY=40&desc=Hi%20there🖐️,%20I'm%20backend%20developer%20ye-chan%20Yeom:])
 
-## 🐤Intro
+<br>
+
+### 🐤Intro
 
 배움과 성장을 최우선의 가치로 생각합니다.  
 
-## 🛠️Skills
+<br>
+
+### 🛠️Skills
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 
@@ -21,7 +27,11 @@
 
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 
-## 🐤 TMI
+
+<br>
+<br>
+
+### 🐤 TMI
 
 <!--
 <a href="https://yyechan0602.github.io/">
@@ -31,12 +41,19 @@
     <img src ="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" style="height : auto;"/>
 </a>
 -->
-- Email : yyechan1@gmail.com
-- Github : https://github.com/yyechan0602
-- 블로그 : <https://yyechan0602.github.io> ✨
-- 이메일 : <yyechan1@gmail.com>
 
-## 🐤 공부중
+<div>
+
+Email : yyechan1@gmail.com  
+Github : https://github.com/yyechan0602  
+블로그 : <https://yyechan0602.github.io> ✨  
+이메일 : <yyechan1@gmail.com>  
+
+</div>
+
+<br>
+
+### 🐤 공부중
 
 [![ariancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyechan0602&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyechan0602&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 

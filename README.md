@@ -37,13 +37,11 @@
 
 <summary> <b> Github Stats </b> </summary>
   
-[![tnsgh9603's github stats](https://github-readme-stats.vercel.app/api?username=yyechan)](https://github.com/yyechan/github-readme-stats)
+[![tnsgh9603's github stats](https://github-readme-stats.vercel.app/api?username=yyechan)](https://github.com/yyechan/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyechan&langs_count=10&layout=compact&theme=dark)](https://github.com/yyechan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyechan&langs_count=10&layout=compact&theme=dark)](https://github.com/yyechan)
+[![tnsgh9603's github streak](https://github-readme-streak-stats.herokuapp.com/?user=yyechan&theme=blue-green)](https://github.com/yyechan/github-readme-streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yyechan&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-[![tnsgh9603's github streak](https://github-readme-streak-stats.herokuapp.com/?user=yyechan&theme=blue-green)](https://github.com/yyechan/github-readme-streak-stats)
   
 </details>
 

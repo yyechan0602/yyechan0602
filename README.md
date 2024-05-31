@@ -1,10 +1,12 @@
-### Last Updated At 23.07.03
-# 안녕하세요, 염예찬입니다! 🐳
+<div align='center'>
 
-### 🚀 About Me
-- 다른 사람들이 잘 이해할 수 있도록 배운 내용을 [기술 블로그](https://yyechan0602.github.io/)에 기록하고, 이를 설명하는 것에 보람을 느낍니다.
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Yechan%20Yeom&fontSize=80&fontAlignY=37&desc=Server%20Developer)
 
+<br>
 
+### 🐤Intro
+
+배움과 성장을 최우선의 가치로 생각합니다.  
 
 
 ---
@@ -19,6 +21,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyechan0602&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=Today/Total&edge_flat=false)
 
+
 <details>
 
 <summary> <b> Problem Solving Stats </b> </summary>
@@ -30,8 +33,6 @@
 
 
 </details>
-
-
 
 <details>
 

@@ -16,11 +16,9 @@
 
 <div align="center">
   
-[![Curriculum Vitae](https://img.shields.io/badge/%5B%20Resume%20|%20이력서%20%5D-%23000000.svg?style=for-the-badge&logo=notion&logoColor=#FF7139)](https://lean-drizzle-465.notion.site/ffd7b8ae76c64c628c61f9a7a83d52e8) 
+[![Curriculum Vitae](https://img.shields.io/badge/%5B%20Resume%20|%20이력서%20%5D-%23000000.svg?style=for-the-badge&logo=notion&logoColor=#FF7139)](https://lean-drizzle-465.notion.site/ffd7b8ae76c64c628c61f9a7a83d52e8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%88%9C%ED%98%B8-%EA%B6%8C-072071228/)](https://www.linkedin.com/in/%EC%98%88%EC%B0%AC-%EC%97%BC-7022a9301/)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%88%9C%ED%98%B8-%EA%B6%8C-072071228/)](https://www.linkedin.com/in/%EC%98%88%EC%B0%AC-%EC%97%BC-7022a9301/)  [![Blog](https://img.shields.io/badge/%5B%20Resume%20|%20이력서%20%5D-%23000000.svg?style=flat-square&logo=Github&logoColor=white&link=https://yyechan0602.github.io/)](https://yyechan0602.github.io/) 
-
-[![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyechan0602@naver.com)](mailto:yyechan0602@naver.com) <a href="https://www.instagram.com/yyc_0602/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>    
+[![Blog](https://img.shields.io/badge/%5B%20Blog%20%5D-%23000000.svg?style=flat-square&logo=Github&logoColor=white&link=https://yyechan0602.github.io/)](https://yyechan0602.github.io/) [![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyechan0602@naver.com)](mailto:yyechan0602@naver.com) <a href="https://www.instagram.com/yyc_0602/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>    
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyechan0602&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=Today/Total&edge_flat=false)
 

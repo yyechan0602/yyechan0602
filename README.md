@@ -39,11 +39,11 @@
 
 <summary> <b> Github Stats </b> </summary>
   
-[![tnsgh9603's github stats](https://github-readme-stats.vercel.app/api?username=yyechan)](https://github.com/yyechan/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyechan&langs_count=10&layout=compact&theme=dark)](https://github.com/yyechan)
+[![yyechan0602's github stats](https://github-readme-stats.vercel.app/api?username=yyechan0602)](https://github.com/yyechan/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyechan0602&langs_count=10&layout=compact&theme=dark)](https://github.com/yyechan0602)
 
-[![tnsgh9603's github streak](https://github-readme-streak-stats.herokuapp.com/?user=yyechan&theme=blue-green)](https://github.com/yyechan/github-readme-streak-stats)
+[![yyechan0602's github streak](https://github-readme-streak-stats.herokuapp.com/?user=yyechan0602&theme=blue-green)](https://github.com/yyechan/github-readme-streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yyechan&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yyechan0602&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </details>
 
